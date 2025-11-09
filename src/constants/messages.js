@@ -1,5 +1,5 @@
 
-export const apiKey = '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';
+export const apiKey = 'api-key';
 
 export const dummyMessages = [
     {
